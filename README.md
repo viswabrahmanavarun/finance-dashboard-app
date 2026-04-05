@@ -59,24 +59,19 @@ This application helps users track transactions, analyze spending, and gain fina
 ## 📸 Screenshots
 
 ### Dashboard
-
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](./screenshots/dashboard.png)
 
 ### Transactions
-
-![Transactions](screenshots/transactions.png)
+![Transactions](./screenshots/transactions.png)
 
 ### Add Transaction
-
-![Add Transaction](screenshots/add_transactions.png)
+![Add Transaction](./screenshots/add_transactions.png)
 
 ### Insights
-
-![Insights](screenshots/insights.png)
+![Insights](./screenshots/insights.png)
 
 ### Dark Mode
-
-![Dark Mode](screenshots/dark_mode.png)
+![Dark Mode](./screenshots/dark_mode.png)
 
 ---
 
